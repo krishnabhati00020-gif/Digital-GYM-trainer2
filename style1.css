@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://th.bing.com/th/id/OIP.HXenF2OXZLtfnr5Yp1IDzQHaFj?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3");
+    font-family: 'segoe UI'
+    Tahonma, Genevsana , Verdana, Geneva,
+    sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4
+    color #e48a8a ;
+    scroll-behavior: smooth; /
+    
+ }
+ 
+  
+
+ /* the blank image placeholder
+ with pink under lines*/
+ .img source {
+    width: 100%;
+    height: 200px;
+    background-color: #e68989;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border-bottom: 5px solid
+    pink; /* pink underline */
+
+ }
+
+ .exerice-detail h2{
+    color: #e91e63; /* pink accent
+    for headings */
+
+ }
+ 
+ 
+ li{
+    background: rgb(202, 89, 108) ;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px ;
+    box-shadow: 0 2px 5px 
+    reba(0,0,0,0,1);
+ }   
+ .b{
+    background-color: #e48a8a;
+
+ }

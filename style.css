@@ -1,0 +1,46 @@
+body {
+   background-image: url("https://th.bing.com/th/id/OIP.HXenF2OXZLtfnr5Yp1IDzQHaFj?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3") ;
+    font-family: 'segoe UI'
+    Tahonma, Genevsana , Verdana, Geneva,
+    sans-serif;
+    line-height: 1.6;
+    margin: 2;
+    padding: 2;
+    scroll-behavior: smooth; /
+    
+ }
+
+ header {
+    background: #2c3e50
+    color pink
+    text-align center;
+    gap: 20px
+    padding  40px 20px;
+    flex-wrap: wrap;
+ }
+
+
+ .exerice-detail h2{
+    color: #e91e63; /* pink accent
+    for headings */
+
+ }
+ li{
+    background: pink ;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px ;
+    box-shadow: 2px 2px 5px 
+    reba(0,0,0,0,1);
+ }
+ h1{
+   background-color: #f4f4f4f4;
+ }
+ 
+ B{
+   background-color: #ffffff;
+ }
+ b1{
+   font-size: xx-large;
+ }
+
